@@ -63,9 +63,10 @@ The game ends when the correct number is guessed.
 🏆 Score system
 🖥️ GUI version (Tkinter / Pygame)
 📈 Leaderboard system
+
 👨‍💻 Author
 
-Avijit Roy
+Anirban Kundu
 
 🌟 Support
 
