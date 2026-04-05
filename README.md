@@ -5,6 +5,12 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/Akundu007-rgb/Guessing-Game">
+    🔗 View Repository
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python">
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen">
   <img src="https://img.shields.io/badge/Made%20With-❤️-red">
@@ -54,17 +60,17 @@ You have guessed the number 55 correctly in 3 attempts!!
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Akundu007-rgb/Guessing-Game.git
 ```
 
 ### 2️⃣ Navigate to the project directory
 ```bash
-cd your-repo-name
+cd Guessing-Game
 ```
 
 ### 3️⃣ Run the program
 ```bash
-python your_file_name.py
+python main.py
 ```
 
 ---
@@ -103,6 +109,8 @@ The game ends when the correct number is guessed.
 **Anirban Kundu**  
 🎓 B.Tech CSE  
 🚀 Aspiring AI Engineer  
+
+🔗 GitHub: https://github.com/Akundu007-rgb  
 
 ---
 
