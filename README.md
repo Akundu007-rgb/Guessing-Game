@@ -31,56 +31,91 @@ Lower number please!!
 Guess the number : 55
 You have guessed the number 55 correctly in 3 attempts!!
 ```
+
+---
+
 ## ✨ Features
 
-✔️ Random number generation
-✔️ Interactive CLI input
-✔️ Smart hints (Higher / Lower)
-✔️ Tracks number of attempts
+- ✔️ Random number generation  
+- ✔️ Interactive CLI input  
+- ✔️ Smart hints (Higher / Lower)  
+- ✔️ Tracks number of attempts  
+
 ---
+
 ## 🛠️ Tech Stack
-🐍 Python 3
-🎲 random module
+
+- 🐍 Python 3  
+- 🎲 random module  
+
+---
+
 ## ⚙️ Installation & Setup
+
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 ```
+
 ### 2️⃣ Navigate to the project directory
 ```bash
 cd your-repo-name
 ```
+
 ### 3️⃣ Run the program
 ```bash
 python your_file_name.py
 ```
+
+---
+
 ## 🧠 How It Works
+
 A random number is generated using:
-```bash
-random.randint(1, 100)
+
+```python
+import random
+number = random.randint(1, 100)
 ```
-```
+
 The user keeps guessing until correct.
+
 After each guess:
-🔼 Too low → "Higher number please!!"
-🔽 Too high → "Lower number please!!"
+- 🔼 Too low → "Higher number please!!"  
+- 🔽 Too high → "Lower number please!!"  
+
 The game ends when the correct number is guessed.
-```
+
+---
+
 ## 🚧 Future Enhancements
-🎯 Difficulty levels (Easy / Medium / Hard)
-⏳ Limited attempts mode
-🏆 Score system
-🖥️ GUI version (Tkinter / Pygame)
-📈 Leaderboard system
+
+- 🎯 Difficulty levels (Easy / Medium / Hard)  
+- ⏳ Limited attempts mode  
+- 🏆 Score system  
+- 🖥️ GUI version (Tkinter / Pygame)  
+- 📈 Leaderboard system  
+
 ---
+
 ## 👨‍💻 Author
-Anirban Kundu
+
+**Anirban Kundu**  
+🎓 B.Tech CSE  
+🚀 Aspiring AI Engineer  
+
 ---
+
 ## 🌟 Support
+
 If you like this project:
-- ⭐ Star this repository
-- 🍴 Fork it
-- 📢 Share with friends
+
+- ⭐ Star this repository  
+- 🍴 Fork it  
+- 📢 Share with friends  
+
 ---
+
 ## 📜 License
+
 This project is open-source and free to use.
